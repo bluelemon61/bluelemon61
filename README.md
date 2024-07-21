@@ -7,6 +7,7 @@
 
 #### Side-Project
 - [동아리마트](https://www.dongarimart.com/)
+- [AI Developer 동아리 홈페이지](https://pnu-aid.github.io/homepage/)
 
 #### FrontEnd & BackEnd
 <div>
