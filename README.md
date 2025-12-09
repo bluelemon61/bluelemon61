@@ -37,8 +37,9 @@
 <img src='https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma'>
 </div>
 
-### 🏠 Blog
+### 🧷 Connections
 <a href='https://h000ny.tistory.com'><img src='https://img.shields.io/badge/link to blog-orange?style=for-the-badge&logo=tistory'></a>
+<a href='https://www.linkedin.com/in/%EB%8F%99%ED%9B%88-%EC%9D%B4-552561312/'><img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin'></a>
 
 ### 🍚 ETC
 - [2023 소비자 피해 예방 소비자교육 콘텐츠 공모전](https://www.youtube.com/watch?v=FTqXopeOHus), **우수상** | KOINCE <br>
