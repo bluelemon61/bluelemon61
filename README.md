@@ -1,4 +1,4 @@
-## 이동훈, Donghoon Lee
+## Donghoon Lee
 > Undergraduate Student, Computer Science & Engineering
 > Pusan National University | Mar 2020 – Present
 
