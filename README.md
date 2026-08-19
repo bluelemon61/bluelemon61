@@ -1,6 +1,6 @@
 ## Donghoon Lee
-> Undergraduate Student, Computer Science & Engineering
-> Pusan National University | Mar 2020 – Present
+> Full-stack Engineer, Web Development
+> Pusan National University Computer Science & Engineering | Mar 2020 – Aug 2026
 
 
 ### 🔨 Projects
